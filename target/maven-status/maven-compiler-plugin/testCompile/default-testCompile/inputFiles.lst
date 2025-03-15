@@ -1,3 +1,4 @@
 /workspaces/BDD-stept-to-steap/src/test/java/com/eci/bdd/AppTest.java
 /workspaces/BDD-stept-to-steap/src/test/java/runners/TestRunner.java
 /workspaces/BDD-stept-to-steap/src/test/java/steps/SearchSteps.java
+/workspaces/BDD-stept-to-steap/src/test/java/steps/VerifyChangeSteps.java

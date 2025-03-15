@@ -1,3 +1,4 @@
 runners/TestRunner.class
 steps/SearchSteps.class
+steps/VerifyChangeSteps.class
 com/eci/bdd/AppTest.class
